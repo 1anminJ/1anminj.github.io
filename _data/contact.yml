@@ -15,6 +15,10 @@
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/1anminJ/"
 
+- type: velog
+  icon: "fas fa-blog"
+  url: "https://velog.io/@1anminj"
+
 - type: instagram
   icon: "fa-brands fa-instagram"
   url: "https://www.instagram.com/1anminx_/"
