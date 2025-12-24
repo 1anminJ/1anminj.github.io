@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 1anminJ
 
-tagline: Dev Log
+tagline: Dev Journey
 
 # description: >- # used by seo meta and the atom feed
 
@@ -30,7 +30,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: MinJeong Han
+  name: 1anminJ
   email: mjeoung413@gmail.com
   links:
     - https://github.com/1anminJ
