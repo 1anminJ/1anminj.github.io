@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages로 기술 블로그 만들기 (with Jekyll Chirpy)
 date: 2025-12-24 17:00:00 +0900
-categories: [Project, Setup]
+categories: [Project, Blog SetUp]
 tags: [github-pages, jekyll, chirpy, troubleshooting, blog]
 ---
 
